@@ -6,6 +6,7 @@ This repository contains the code (micropython) the FiPy firmware and the design
 
 the code than should be flashed into the fipy (or any other ESP32 dev board), is the content of the directory ``src/``. The rest should not be uploaded.
 
+![prototype](media/prototype.png)
 ![setup](media/setup.jpg)
 
 ## Usage (version 1.0):
