@@ -1,6 +1,6 @@
 AUTHOR: DAVID TENA GAGO
 
-# CO2 sensor for the office
+# IoT CO2 sensor for indoor air quality control
 
 This repository contains the code (micropython) the FiPy firmware and the designs of the 3d printed case for the development of an indoors IoT-based CO2 concentration monitoring tool.   
 
